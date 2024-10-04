@@ -1,5 +1,8 @@
 /* CSS Styling */
 
+body {
+    background-color: blanchedalmond;
+}
 .h1{
     font-size: 100px
 };
